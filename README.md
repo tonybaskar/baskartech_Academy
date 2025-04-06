@@ -11,7 +11,7 @@ This is a simple GUI-based To-Do List app built using **Python** and **Tkinter**
 - 🧠 Built with beginner-friendly code
 
 ## 📸 Demo
-![To-Do List GUI](path-to-your-screenshot.png)
+![To-Do List GUI](screenshot.png)
 
 ## 🧾 Code
 
